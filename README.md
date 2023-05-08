@@ -1,2 +1,2 @@
 # MegaStore
-This is a project that my software engineering class team and I created. Where you can manage and/or shop at a store.
+This is a project that my software engineering class team and I created. Where you can manage and/or shop at a store. Whether it's adding new products, checking out a customer, viewing your store's order statistics, adjusting tax rates, adding stores, and registering customers as a manager, or placing an order, returning an item, paying for your order with or without SNAP, and viewing your receipt, as a customer you can do it all with this program.
